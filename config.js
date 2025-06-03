@@ -34,7 +34,7 @@ BOT_NAME: process.env.BOT_NAME || "Junior-MD",
 // add bot name here for menu
 STICKER_NAME: process.env.STICKER_NAME || "Urr Dªad😍✨",
 // type sticker pack name 
-CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
+CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custom emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // choose custom react emojis by yourself 
